@@ -1,11 +1,16 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Welcome to my Website"
+image:
+    feature: main.jpg
+
 ---
 
-<div class="tiles">
+This is some text
+
+<!-- <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+
