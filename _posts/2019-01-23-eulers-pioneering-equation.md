@@ -2,7 +2,7 @@
 layout: article
 title: Euler's Pioneering Equation
 date: 2019-01-23 22:30
-category: book
+category: reading
 image:
     teaser: euler.jpg
 

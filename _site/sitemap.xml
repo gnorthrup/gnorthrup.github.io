@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/book/eulers-pioneering-equation/</loc>
+<loc>http://localhost:4000/reading/eulers-pioneering-equation/</loc>
 <lastmod>2019-01-23T22:30:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/book/getting-to-zero/</loc>
+<loc>http://localhost:4000/reading/getting-to-zero/</loc>
 <lastmod>2019-01-23T22:05:00-08:00</lastmod>
 </url>
 <url>
