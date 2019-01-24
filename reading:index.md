@@ -6,7 +6,7 @@ title: Here are some book recommendations
 ---
 
 <div class="tiles">
-{% for post in site.categories.book %}
+{% for post in site.categories.reading %}
   {% include post-grid.html %}
 {% endfor %}
 </div>
