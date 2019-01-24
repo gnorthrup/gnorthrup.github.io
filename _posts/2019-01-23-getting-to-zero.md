@@ -4,7 +4,7 @@ title: Getting to Zero
 date: 2019-01-23 22:05
 category: book
 image:
-    teaser: Zero.jpg
+    teaser: zero.jpg
 
 ---
 
