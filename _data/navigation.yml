@@ -4,3 +4,13 @@
   url: /articles/
   excerpt: "Some stuff I wrote"
   image: typewriter.gif
+
+- title: About
+  url: /about/
+  excerpt: "Some stuff I wrote about myself"
+  image: me.gif
+
+- title: Reading
+  url: /reading/
+  excerpt: "Some books I'm reading and also enjoy"
+  image: books.gif

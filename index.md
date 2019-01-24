@@ -7,10 +7,4 @@ image:
 
 ---
 
-This is some text
-
-<!-- <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-
+This is some text that warmly welcomes you in to my website like a close friend
