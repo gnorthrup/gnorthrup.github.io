@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Euler's Piorneering Equation
+title: Euler's Pioneering Equation
 date: 2019-01-23 22:30
 category: book
 image:
