@@ -5,12 +5,17 @@
   excerpt: "Some stuff I wrote about myself"
   image: me.gif
 
+- title: Research
+  url: /research/
+  excerpt: "Stuff I'm working on"
+  image: lamp4.gif
+
 - title: Publications
   url: /publications/
   excerpt: "Some stuff I wrote"
-  image: typewriter.gif
+  image: books.gif
 
 - title: Contact
   url: /contact/
   excerpt: "Get in touch"
-  image: books.gif
+  image: typewriter.gif

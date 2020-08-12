@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Hi My Name is Graham"
+title: "Hi, My Name is Graham"
 image:
     feature: main2.jpeg
 
