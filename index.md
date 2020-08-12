@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /
-title: "Welcome to my Website"
+title: "Hi My Name is Graham"
 image:
-    feature: main.jpg
+    feature: main2.jpeg
 
 ---
 
-This is some text that warmly welcomes you in to my website like a close friend
+I'm a third year PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/">Center for Computational Biology</a>. This is my personal website where I aggregate things like my <a href="../publications/">publication history</a> and information about my current research. Feel free to take a look around!
