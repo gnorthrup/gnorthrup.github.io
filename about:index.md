@@ -20,7 +20,7 @@ I love my research, and the opportunity to learn new things every day. Check out
 
 I love games of all kinds and have been an avid fan of board, card, video, and sports games all my life. I run a weekly game of Dungeons and Dragons, revealing that I don't take off my nerd hat when I get home from the lab. I root with full throated cheers for Detroit sports teams, the Lions, Tigers, Red Wings, and Pistons. I also watch too much college football for one person, splitting my allegiance between the Universities of Michigan and California.
 
-I also keep a small set of self improvement hobbies, which currently include running, learning Julia (the programming language), and Japanese (the people language)!
+I also keep a small set of self improvement hobbies, which currently include running, learning Julia (the programming language), and learning Japanese (the people language)!
 
 In addition to my hobbies and interests, I love when academia is an arena of ideas from researchers of all backgrounds. However, I acknowledge this is not always the case; and am committed to amplifying the voices of my scientists who are LGBTQ+ or BIPOC to make academic spaces as inclusive as possible. And to using my own voice to speak out against discrimination wherever it is found. My academic and life's journeys have been fortified by my friends and colleagues from all backgrounds, and my wish is for everyone to be able to find the same family in science that I have.
 
