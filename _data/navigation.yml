@@ -19,3 +19,8 @@
   url: /contact/
   excerpt: "Get in touch"
   image: typewriter.gif
+
+- title: CV
+  url: /docs/GrahamNorthrupCV2020.pdf
+  excerpt: "Check out my achievements"
+  image: cvthumbnail.jpeg
