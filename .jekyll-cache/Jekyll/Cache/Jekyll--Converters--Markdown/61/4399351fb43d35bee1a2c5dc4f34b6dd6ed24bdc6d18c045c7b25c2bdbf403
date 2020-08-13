@@ -1,22 +1,16 @@
----
-layout: archive
-permalink: /contact/
-title: Contact
+I"‘<p><img src="/images/SZ1.jpg" alt="My future album cover" style="float:right;padding-right:25px;width:32vw;height:auto;" /></p>
 
----
-<img src="/images/SZ1.jpg" alt="My future album cover" style="float:right;padding-right:25px;width:32vw;height:auto;">
+<h4 id="email-me">Email me!</h4>
 
-#### Email me!
+<p>gnorthrup [at] berkeley [dot] edu</p>
 
-gnorthrup [at] berkeley [dot] edu
+<h4 id="find-me-other-places">Find me other places</h4>
 
-#### Find me other places
+<p><button class="button button2" onclick=" window.open('https://twitter.com/graham_northrup','_blank')" type="button" style="margin:10px;">Twitter</button>
+<button class="button button1" onclick=" window.open('https://scholar.google.com/citations?hl=en&amp;user=-UKhSC0AAAAJ','_blank')" type="button" style="margin:10px;">Google Scholar</button></p>
 
-<button class="button button2" onclick=" window.open('https://twitter.com/graham_northrup','_blank')" type=button style="margin:10px;">Twitter</button>
-<button class="button button1" onclick=" window.open('https://scholar.google.com/citations?hl=en&user=-UKhSC0AAAAJ','_blank')" type=button style="margin:10px;">Google Scholar</button>
-
-<button class="button button3" onclick=" window.open('https://github.com/gnorthrup','_blank')" type=button style="margin:10px;">GitHub</button>
-<button class="button button4" onclick=" window.open('https://www.goodreads.com/gnorthrup','_blank')" type=button style="margin:10px;">Goodreads</button>
+<p><button class="button button3" onclick="location.href='https://github.com/gnorthrup'" type="button" style="margin:10px;">GitHub</button>
+<button class="button button4" onclick="location.href='https://www.goodreads.com/gnorthrup'" type="button" style="margin:10px;">Goodreads</button></p>
 
 <style>
 .button {
@@ -85,3 +79,5 @@ gnorthrup [at] berkeley [dot] edu
 }
 
 </style>
+
+:ET
