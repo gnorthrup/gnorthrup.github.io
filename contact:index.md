@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 
 ---
-<img src="/images/SZ1.jpg" alt="A picture" style="float:right;padding-right:25px;width:32vw;height:auto;">
+<img src="/images/SZ1.jpg" alt="My future album cover" style="float:right;padding-right:25px;width:32vw;height:auto;">
 
 #### Email me!
 
