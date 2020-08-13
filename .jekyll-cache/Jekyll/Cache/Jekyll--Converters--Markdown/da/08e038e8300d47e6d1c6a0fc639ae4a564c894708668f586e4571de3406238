@@ -1,0 +1,7 @@
+I"´<h1 id="404">404</h1>
+
+<p>Error: you are lost, this webpage doesnâ€™t exist
+<script>
+    document.write('<a href="' + document.referrer + '">Go Back To Safety</a>');
+</script></p>
+:ET
