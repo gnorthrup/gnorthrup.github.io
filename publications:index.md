@@ -6,9 +6,11 @@ title: Publications
 ---
 #### Submitted
 
-- <b>Northrup GR</b>, Qian L, Bruxvoort K, Marx FM, Whittles LK, Lewnard JA. Inference of naturally-acquired immunity using a self-matched negative control design. Preprint on <i>medRxiv</i> 2020. <a href="https://doi.org/10.1101/2020.03.01.20029850" target="_blank"> doi:10.1101/2020.03.01.20029850 </a>
-
 - Head JR, Andrejko K, Cheng Q, Collender PA, Phillips S, Boser A, Heaney AK, Hoover CM, Wu SL, <b>Northrup GR</b>, Click K, Harrison R, Lewnard JA, Remais JV. The effect of school closures and reopening strategies on COVID-19 infection dynamics in the San Francisco Bay Area: a cross-sectional survey and modeling analysis. Preprint on <i>medRxiv</i> 2020. <a href="https://doi.org/10.1101/2020.08.06.20169797" target="_blank"> doi:10.1101/2020.08.06.20169797 </a>
+
+#### Accepted
+
+- <b>Northrup GR</b>, Qian L, Bruxvoort K, Marx FM, Whittles LK, Lewnard JA. Inference of naturally-acquired immunity using a self-matched negative control design. Preprint on <i>medRxiv</i> 2020. <a href="https://doi.org/10.1101/2020.03.01.20029850" target="_blank"> doi:10.1101/2020.03.01.20029850 </a>
 
 #### Published
 
