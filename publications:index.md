@@ -14,4 +14,4 @@ title: Publications
 
 #### Published
 
-- Lewnard JA, Liu VX, Jackson ML, Schmidt MA, Jewell BL, Flores JP, Jentz C, <b>Northrup GR</b>, Mahmud A, Reingold AR, Petersen M, Jewell NP, Young S, Bellows J. Incidence, clinical outcomes, and transmission dynamics of severe coronavirus disease 2019 in California and Washington: prospective cohort study. <i>BMJ</i> 2020. <a href="https://www.bmj.com/content/369/bmj.m1923" target="_blank" style="color:blue;"> doi:10.1136.bmj.m1923 </a>
+- Lewnard JA, Liu VX, Jackson ML, Schmidt MA, Jewell BL, Flores JP, Jentz C, <b>Northrup GR</b>, Mahmud A, Reingold AR, Petersen M, Jewell NP, Young S, Bellows J. Incidence, clinical outcomes, and transmission dynamics of severe coronavirus disease 2019 in California and Washington: prospective cohort study. <i>BMJ</i> 2020. <a href="https://www.bmj.com/content/369/bmj.m1923" target="_blank" style="color:blue;"> doi:10.1136/bmj.m1923 </a>
