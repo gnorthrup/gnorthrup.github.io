@@ -9,3 +9,4 @@ image:
   teaser:
   thumb:
 ---
+{% raw %}{% seo %}{% endraw %}
