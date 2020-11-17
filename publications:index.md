@@ -6,6 +6,8 @@ title: Publications
 ---
 #### Submitted
 
+- Brook CE, <b> Northrup GR</b>, Ehrenberg AJ, The IGI Testing Consortium, Doudna JA, Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. Preprint on <i>medRxiv</i> 2020. <a href="https://doi.org/10.1101/2020.11.12.20230870" target="_blank" style="color:blue;"> doi:10.1101/2020.11.12.20230870 </a>
+
 - Head JR, Andrejko K, Cheng Q, Collender PA, Phillips S, Boser A, Heaney AK, Hoover CM, Wu SL, <b>Northrup GR</b>, Click K, Harrison R, Lewnard JA, Remais JV. The effect of school closures and reopening strategies on COVID-19 infection dynamics in the San Francisco Bay Area: a cross-sectional survey and modeling analysis. Preprint on <i>medRxiv</i> 2020. <a href="https://doi.org/10.1101/2020.08.06.20169797" target="_blank" style="color:blue;"> doi:10.1101/2020.08.06.20169797 </a>
 
 #### Accepted
