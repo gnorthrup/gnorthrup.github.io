@@ -11,7 +11,7 @@ My research centers on the use of mathematics to understand how infectious disea
 
 #### Epidemiology
 
-Infectious disease epidemiology represents a set of tools for investigating who gets diseases, why they may get them, and what sorts of interventions can be used to mitigate their burdens on populations. I am especially interested in the epidemiology of recurrent infection processes and imperfect acquired immunity. I have submitted work to improve the statistical estimation tools we can use to make use of data from these systems already, and I am excited to extend these methods to more pathogens.
+Infectious disease epidemiology represents a set of tools for investigating who gets diseases, why they may get them, and what sorts of interventions can be used to mitigate their burdens on populations. I am especially interested in the epidemiology of recurrent infection processes and imperfect acquired immunity. I have published work to improve the statistical estimation tools we can use to make use of data from these systems already, and I am excited to extend these methods to more pathogens.
 
 <img src="/images/SIH.png" alt="Another example of my work" style="float:left;padding-right:25px;width:350px;height:auto;">
 #### Evolution of Infectious Disease
