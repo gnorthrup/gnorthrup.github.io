@@ -18,3 +18,5 @@ title: Publications
 #### In Review
 
 - <b>Northrup GR</b>, Parratt SR, Rozins C, Laine AL, Boots M. The evolutionary dynamics of hyperparasites. Preprint available on <i>bioRxiv</i> 2021. <a href="https://doi.org/10.1101/2021.12.01.470853" target="_blank" style="color:blue;"> doi:10.1101/2021.12.01.470853 </a>
+
+- Brook CE, Li Y, Yek C, <b>Northrup GR</b>, Lay S, Chea A, Ahyong V, Parker DM, Man S, Pacheco AR, Mengheng O, Oliveria F, Fahsbender L, Leang R, Huy R, Huch C, Lon C, Tato CM, DeRisi JL, Boots M, Bohl JA, Manning JE. The perfect storm of 2019: An immunological and phylodynamic analysis of Cambodia’s unprecedented dengue outbreak. Preprint available on <i>MedRxiv</i> 2022. <a href="https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v1" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a>
