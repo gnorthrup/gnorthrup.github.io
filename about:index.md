@@ -5,10 +5,10 @@ title: About Me
 
 ---
 
-<img src="/images/graham.png" alt="A picture" style="float:left;padding-right:25px;width:300px;height:300px;">
+<img src="/images/graham-short.jpg" alt="A picture" style="float:left;padding-right:25px;width:300px;height:275px;">
 
 #### What I do
-Broadly, I use mathematical tools to answer questions related to infectious diseases. I am in the fifth year of my PhD at UC Berkeley in Computational Biology, where I am co-advised by <a href="https://publichealth.berkeley.edu/people/joseph-lewnard/" target="_blank" style="color:blue;">Dr. Joe Lewnard</a> and <a href="https://bootslab.org/" target="_blank" style="color:blue;">Dr. Mike Boots</a>. Before coming to Berkeley for graduate school, I graduated from the University of Chicago with a BS in Computational and Applied Mathematics. There I had the opportunity to work under <a href="https://cobeylab.uchicago.edu/" target="_blank" style="color:blue;">Dr. Sarah Cobey</a> on modeling B Cell selection.
+Broadly, I use mathematical tools to answer questions related to infectious diseases. I am in the sixth year of my PhD at UC Berkeley in Computational Biology, where I am co-advised by <a href="https://publichealth.berkeley.edu/people/joseph-lewnard/" target="_blank" style="color:blue;">Dr. Joe Lewnard</a> and <a href="https://bootslab.org/" target="_blank" style="color:blue;">Dr. Mike Boots</a>. Before coming to Berkeley for graduate school, I graduated from the University of Chicago with a BS in Computational and Applied Mathematics. There I had the opportunity to work under <a href="https://cobeylab.uchicago.edu/" target="_blank" style="color:blue;">Dr. Sarah Cobey</a> on modeling B Cell selection.
 
 #### Why I do it
 I started my journey to the intersection of mathematics and biology as a undergraduate who knew nothing except that I liked math. I was fortunate to have a series of mentors and advisors who showed me that biology actually moved in concert with mathematical ideas. I was captivated with the idea of abstracting the dynamics of biology into a mathematical framework.
@@ -18,11 +18,11 @@ Infectious disease dynamics interested me particularly as an area where there wa
 #### What I like
 I love my research and the opportunity to learn new things every day. Check out the <a href="../research/" style="color:blue;">research page</a> if you want to hear more about it.
 
-I love games of all kinds and have been an avid fan of board, card, video, and sports games all my life. I run a weekly game of Dungeons and Dragons, revealing that I am a nerd in my professional <i>and</i> personal life. I root with full heartedly for Detroit sports teams, the Lions, Tigers, Red Wings, and Pistons. I also watch too much college football for one person, splitting my allegiance between the Universities of Michigan and California.
+I love games of all kinds and have been an avid fan of board, card, video, and sports games all my life. I have played Magic: The Gathering since elementary school, revealing that I am a nerd in my professional <i>and</i> personal life. I root full heartedly for Detroit sports teams, the Lions, Tigers, Red Wings, and Pistons. I also watch too much college football for one person, splitting my allegiance between the Universities of Michigan and California.
 
-I have also picked up some newer hobbies which seem to be sticking for now, including running, learning Japanese, and trying to further expand the list of programming languages I can use (currently working on Julia).
+I have picked up some newer hobbies during the pandemic which seem to be sticking, including running, learning Japanese, and trying to further expand the list of programming languages I can use (currently working on Julia).
 
-In addition to my hobbies and interests, I love when academia is an arena of ideas from researchers of all backgrounds. However, I acknowledge this is not always the case; and am committed to amplifying the voices of underrepresented scientists such as women, BIPOC, and LGBTQ+ to make academic spaces as inclusive as possible. And to using my own voice to speak out against discrimination wherever it is found. My academic and life's journeys have been fortified by my friends and colleagues from all backgrounds, and my wish is for everyone to be able to find the same family in science that I have.
+In addition to my hobbies and interests, I love when academia is an arena of ideas from researchers of all backgrounds. However, I acknowledge this is not always the case; and am committed to amplifying the voices of underrepresented scientists such as women, BIPOC, and LGBTQ+ scholars to make academic spaces as inclusive as possible. I am also committed to using my own voice to speak out against discrimination wherever it is found. My academic and life's journeys have been fortified by my friends and colleagues from all backgrounds, and my wish is for everyone to be able to find the same family in science that I have.
 
 #### TL:DR
 Cool guy loves math, infectious disease biology, and games. Despises discrimination. <a href="../docs/GrahamNorthrupCV.pdf" target="_blank" style="color:blue;">Check out my CV</a> for more info.

@@ -7,6 +7,8 @@ title: Publications
 
 #### Published
 
+- <b>Northrup GR</b>, White AR, Parratt SR, Rozins C, Laine AL, Boots M. The evolutionary dynamics of hyperparasites. <i>Journal of Theoretical Biology</i> 2024. <a href="https://doi.org/10.1016/j.jtbi.2024.111741" target="_blank" style="color:blue;"> doi:10.1016/j.jtbi.2024.111741 </a>
+
 - Brook CE, <b> Northrup GR</b>, Ehrenberg AJ, The IGI Testing Consortium, Doudna JA, Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. <i>Epidemics</i> 2021. <a href="https://doi.org/10.1016/j.epidem.2021.100527" target="_blank" style="color:blue;"> doi:10.1016/j.epidem.2021.100527 </a>
 
 - Head JR, Andrejko K, Cheng Q, Collender PA, Phillips S, Boser A, Heaney AK, Hoover CM, Wu SL, <b>Northrup GR</b>, Click K, Bardach NS, Lewnard JA, Remais JV. The effect of school closures and reopening strategies on COVID-19 infection dynamics in the San Francisco Bay Area: a cross-sectional survey and modeling analysis. <i>J. R. Soc. Interface</i> 2021. <a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0970" target="_blank" style="color:blue;"> doi:10.1098/rsif.2020.0970 </a>
@@ -17,6 +19,4 @@ title: Publications
 
 #### In Review
 
-- <b>Northrup GR</b>, Parratt SR, Rozins C, Laine AL, Boots M. The evolutionary dynamics of hyperparasites. Preprint available on <i>bioRxiv</i> 2021. <a href="https://doi.org/10.1101/2021.12.01.470853" target="_blank" style="color:blue;"> doi:10.1101/2021.12.01.470853 </a>
-
-- Brook CE, Li Y, Yek C, <b>Northrup GR</b>, Lay S, Chea A, Ahyong V, Parker DM, Man S, Pacheco AR, Mengheng O, Oliveria F, Fahsbender L, Leang R, Huy R, Huch C, Lon C, Tato CM, DeRisi JL, Boots M, Bohl JA, Manning JE. The perfect storm of 2019: An immunological and phylodynamic analysis of Cambodia’s unprecedented dengue outbreak. Preprint available on <i>MedRxiv</i> 2022. <a href="https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v1" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a>
+-	Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. Preprint on MedRxiv 2022. <a href="https://doi.org/10.1101/2022.06.08.22276171" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a>
