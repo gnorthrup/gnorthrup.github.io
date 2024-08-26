@@ -19,4 +19,10 @@ title: Publications
 
 #### In Review
 
+- <b>Northrup GR</b>, Boots M, Saad-Roy CM. The shape of waning vaccinal immunity: implications for control.
+
+- O'Neill X, White AR, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens.
+
+#### In Press
+
 -	Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. Preprint on MedRxiv 2022. <a href="https://doi.org/10.1101/2022.06.08.22276171" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a>

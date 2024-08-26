@@ -1,5 +1,4 @@
-I"’
-<h4 id="published">Published</h4>
+I"·<h3 id="published">Published</h3>
 
 <ul>
   <li>
@@ -19,9 +18,20 @@
   </li>
 </ul>
 
+<h4 id="in-press">In Press</h4>
+
+<ul>
+  <li>Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. Preprint on MedRxiv 2022. <a href="https://doi.org/10.1101/2022.06.08.22276171" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a></li>
+</ul>
+
 <h4 id="in-review">In Review</h4>
 
 <ul>
-  <li>Brook CE, Li Y, Yek C, <b>Northrup GR</b>, Lay S, Chea A, Ahyong V, Parker DM, Man S, Pacheco AR, Mengheng O, Oliveria F, Fahsbender L, Leang R, Huy R, Huch C, Lon C, Tato CM, DeRisi JL, Boots M, Bohl JA, Manning JE. The perfect storm of 2019: An immunological and phylodynamic analysis of Cambodiaâ€™s unprecedented dengue outbreak. Preprint available on <i>MedRxiv</i> 2022. <a href="https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v1" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a></li>
+  <li>
+    <p><b>Northrup GR</b>, Boots M, Saad-Roy CM. The shape of waning vaccinal immunity: implications for control.</p>
+  </li>
+  <li>
+    <p>Oâ€™Neill X, White AR, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens.</p>
+  </li>
 </ul>
 :ET
