@@ -1,6 +1,9 @@
-I"·<h3 id="published">Published</h3>
+I"ƒ<h4 id="published">Published</h4>
 
 <ul>
+  <li>
+    <p>Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. PNAS 2022. <a href="https://doi.org/10.1073/pnas.2318704121" target="_blank" style="color:blue;">  doi:10.1073/pnas.2318704121 </a></p>
+  </li>
   <li>
     <p><b>Northrup GR</b>, White AR, Parratt SR, Rozins C, Laine AL, Boots M. The evolutionary dynamics of hyperparasites. <i>Journal of Theoretical Biology</i> 2024. <a href="https://doi.org/10.1016/j.jtbi.2024.111741" target="_blank" style="color:blue;"> doi:10.1016/j.jtbi.2024.111741 </a></p>
   </li>
@@ -18,13 +21,7 @@
   </li>
 </ul>
 
-<h4 id="in-press">In Press</h4>
-
-<ul>
-  <li>Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. Preprint on MedRxiv 2022. <a href="https://doi.org/10.1101/2022.06.08.22276171" target="_blank" style="color:blue;">  doi:10.1101/2022.06.08.22276171 </a></li>
-</ul>
-
-<h5 id="in-review">In Review</h5>
+<h4 id="in-review">In Review</h4>
 
 <ul>
   <li>
@@ -34,4 +31,5 @@
     <p>Oâ€™Neill X, White AR, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens.</p>
   </li>
 </ul>
+
 :ET
