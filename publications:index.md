@@ -7,11 +7,11 @@ title: Publications
 
 #### Published
 
-- O'Neill X, White AR, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens. <i> bioRxiv </i> 2025. <a href="https://doi.org/10.1101/2025.09.03.25335001" target="_blank" style="color:blue;"> doi:10.1101/2025.09.03.25335001 </a>
+- O'Neill X, White A, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens. <i> bioRxiv </i> 2025. <a href="https://doi.org/10.1101/2025.09.03.25335001" target="_blank" style="color:blue;"> doi:10.1101/2025.09.03.25335001 </a>
 
 - Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. PNAS 2024. <a href="https://doi.org/10.1073/pnas.2318704121" target="_blank" style="color:blue;">  doi:10.1073/pnas.2318704121 </a>
 
-- <b>Northrup GR</b>, White AR, Parratt SR, Rozins C, Laine AL, Boots M. The evolutionary dynamics of hyperparasites. <i>Journal of Theoretical Biology</i> 2024. <a href="https://doi.org/10.1016/j.jtbi.2024.111741" target="_blank" style="color:blue;"> doi:10.1016/j.jtbi.2024.111741 </a>
+- <b>Northrup GR</b>, White A, Parratt SR, Rozins C, Laine AL, Boots M. The evolutionary dynamics of hyperparasites. <i>Journal of Theoretical Biology</i> 2024. <a href="https://doi.org/10.1016/j.jtbi.2024.111741" target="_blank" style="color:blue;"> doi:10.1016/j.jtbi.2024.111741 </a>
 
 - Brook CE, <b> Northrup GR</b>, Ehrenberg AJ, The IGI Testing Consortium, Doudna JA, Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. <i>Epidemics</i> 2021. <a href="https://doi.org/10.1016/j.epidem.2021.100527" target="_blank" style="color:blue;"> doi:10.1016/j.epidem.2021.100527 </a>
 
