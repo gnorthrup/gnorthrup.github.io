@@ -5,13 +5,11 @@ title: Publications
 
 ---
 
-#### Accepted
-
-- O'Neill X, White A, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens. Accepted at PLoS Computational Biology. Preprint available on <i> bioRxiv </i> 2025. <a href="https://doi.org/10.1101/2025.09.03.25335001" target="_blank" style="color:blue;"> doi:10.1101/2025.09.03.25335001 </a>
-
-- <b>Northrup GR</b>, Boots M, Saad-Roy CM. The shape of waning vaccinal immunity: implications for control. Accepted at PLoS Complex Systems.
-
 #### Published
+
+- <b>Northrup GR</b>, Boots M, Saad-Roy CM. The shape of waning vaccinal immunity: implications for control.  <i>PLoS Complex Systems</i> 2025. <a href="https://doi.org/10.1371/journal.pcsy.0000071" target="_blank" style="color:blue;"> doi:10.1371/journal.pcsy.0000071 </a>
+
+- O'Neill X, White A, <b>Northrup GR</b>, Saad-Roy CM, White PS, Boots M. Superspreading and the evolution of pathogens. <i>PLoS Computational Biology</i> 2025. <a href="https://doi.org/10.1371/journal.pcbi.1013517" target="_blank" style="color:blue;"> doi:10.1371/journal.pcbi.1013517 </a>
 
 - Brook CE, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender L, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, <b>Northrup GR</b>, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. PNAS 2024. <a href="https://doi.org/10.1073/pnas.2318704121" target="_blank" style="color:blue;">  doi:10.1073/pnas.2318704121 </a>
 
