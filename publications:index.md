@@ -27,3 +27,5 @@ title: Publications
 
 - O'Neill X, White AR, <b>Northrup GR</b>, Saad-Roy CM, Silk MJ, White PS, Boots M. The Impact of Heterogeneous Contact Structure on the Evolution of Pathogen Virulence.
 
+- Sokolov NA, <b>Northrup GR</b>, Wilfert L, Boots M. The impacts of almond pollination on honeybee viral dynamics. Preprint available at <i> bioRxiv </i> 2025. <a href="https://doi.org/10.1101/2025.10.17.678657" target="_blank" style="color:blue;"> doi:10.1101/2025.10.17.678657 </a>
+
